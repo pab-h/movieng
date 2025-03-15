@@ -1,0 +1,1 @@
+Nessa parte, as classes que intermediam as views e os models

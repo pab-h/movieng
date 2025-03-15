@@ -1,0 +1,1 @@
+Nessa pasta, as classes são responsáveis pela lógica de negócios.
